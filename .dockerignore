@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Git files
+.git/
+.gitignore
+
+# Dockerfile and related files
+Dockerfile*
+.dockerignore
+
+# IDE files (e.g., VSCode, JetBrains)
+.vscode/
+.idea/
+
+# OS-specific files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Build artifacts (if using a build system)
+dist/
+build/
